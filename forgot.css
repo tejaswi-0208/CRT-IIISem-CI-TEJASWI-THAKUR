@@ -1,0 +1,59 @@
+.forgot {
+  background: #ffffff;
+  width: 340px;
+  padding: 25px;
+  border-radius: 6px;
+  border: 1px solid #d0d7de;
+}
+
+.forgot h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #24292f;
+}
+
+.forgot label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 6px;
+  color: #24292f;
+}
+
+.forgot input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+}
+
+.forgot input:focus {
+  outline: none;
+  border-color: #0969da;
+}
+
+.forgot button {
+  width: 100%;
+  padding: 10px;
+  background-color: #57606a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.forgot button:hover {
+  background-color: #424a53;
+}
+
+.forgot p {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 13px;
+}
+
+.forgot a {
+  color: #0969da;
+  text-decoration: none;
+}
